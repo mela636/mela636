@@ -34,21 +34,21 @@ Hi! My name is Melanie and I'm a data scientist who loves to explore my interest
 Currently researching and creating a dashboard to track and save stories I have read in an organized manner.
 
 ### Fall Risk Predictor & AvaSure Suitability Model
-**Capstone - Lakeland Regional Health**
+**Capstone - Lakeland Regional Health** <br>
 Researched and developed a fall-risk prediction model to help hospitals effectively allocate resources and reduce patient falls.
 
 ### Anime Recommendation System
 Utilized My Anime List *(MAL)* database to explore anime data analysis, build and evaluate an anime recommendation system, and implemented my own watch list as a test method.
 
 ### Pancreatic Urinary Biomarkers
-**Statistical Learning Project - Florida Polytechnic University**
+**Statistical Learning Project - Florida Polytechnic University** <br>
 An in-depth look at urinary biomarkers for pancreatic cancer as a means of diagnosing patients.
 - Analyzed urinary biomarker levels, plasma **CA19-9**, and **REG1A** — markers that are elevated in patients with PDAC
 - Performed exploratory data analysis to build predictive models from features that may indicate pancreatic cancer
 - Used **best subset selection, multinomial logistic regression, k-means clustering, and random forest** models
 
 ### Genre-Based Game Performance
-**Big Data Analytics Project - Florida Polytechnic University**
+**Big Data Analytics Project - Florida Polytechnic University** <br>
 A comparative analysis of video game performance based on their respective genres.
 - Used **R** for exploratory data analysis, visualization, and statistical modeling
 - Used **PySpark** for large-scale text processing and machine learning
@@ -59,7 +59,7 @@ This study aims to look into the connection between depression and various demog
 ### Book Database
 A project that served as the format for a database of a fictional bookseller retail company based in the United States.
 
-### Archive of Our Own — Data Analysis
+### Archive of Our Own- Data Analysis
 A breakdown of the *"Selective Data Dump For Fan Statistics"* provided by Archive of Our Own. 
 
 ---
